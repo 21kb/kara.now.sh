@@ -1,6 +1,7 @@
 {
   "name": "kara.now.sh",
   "description": "Professional logos for the lazy ones!",
+  "version": "1.0.2",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
@@ -10,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yeskunall/kara.now.sh.git"
+    "url": "git+https://github.com/21kb/kara.now.sh.git"
   },
   "dependencies": {
     "gatsby": "^1.9.277",
