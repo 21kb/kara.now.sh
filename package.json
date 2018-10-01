@@ -20,6 +20,7 @@
     "gatsby-plugin-typography": "^1.7.19",
     "prop-types": "^15.6.2",
     "react-anime": "^2.0.1",
+    "react-ga": "^2.5.3",
     "react-helmet": "^5.2.0"
   },
   "devDependencies": {

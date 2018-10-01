@@ -1,10 +1,16 @@
 import Anime from 'react-anime';
 import React, { Component } from 'react';
+import ReactGA from 'react-ga';
 
 import Container from '../components/Container';
 import Content from '../components/Content';
 import { Head } from '../utils/index';
 import logo from '../../public/static/logo.svg';
+
+// Init Google Analytics here
+// TODO: Find a better place to initialize
+ReactGA.initialize('UA-126770080-1');
+ReactGA.pageview(window.location.pathname + window.location.search);
 
 export default class Index extends Component {
   constructor() {
