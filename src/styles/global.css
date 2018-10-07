@@ -1,3 +1,26 @@
-/* body {
-  background: rgba(223, 249, 251, 18);
-} */
+/* Load fonts  */
+@import url('https://fonts.googleapis.com/css?family=Karla:400,700');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+a:active,
+a:link,
+a:visited {
+  color: #282b35;
+}
+html {
+  box-sizing: border-box;
+}
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+body {
+  background: rgba(255, 215, 164, 10%);
+  color: #282b35;
+  font-family: 'Karla';
+  font-size: 62.5%;
+}

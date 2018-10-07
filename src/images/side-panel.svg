@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="560px" height="982px" viewBox="0 0 560 982" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 7@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.229139,-7.76880231e-16 L480.770861,7.76880231e-16 C487.457252,-4.51389787e-16 489.881898,0.696192084 492.326343,2.00349528 C494.770787,3.31079847 496.689202,5.22921278 497.996505,7.67365722 C499.303808,10.1181017 500,12.5427485 500,19.229139 L500,280.770861 C500,287.457252 499.303808,289.881898 497.996505,292.326343 C496.689202,294.770787 494.770787,296.689202 492.326343,297.996505 C489.881898,299.303808 487.457252,300 480.770861,300 L19.229139,300 C12.5427485,300 10.1181017,299.303808 7.67365722,297.996505 C5.22921278,296.689202 3.31079847,294.770787 2.00349528,292.326343 C0.696192084,289.881898 3.00926524e-16,287.457252 -5.17920154e-16,280.770861 L5.17920154e-16,19.229139 C-3.00926524e-16,12.5427485 0.696192084,10.1181017 2.00349528,7.67365722 C3.31079847,5.22921278 5.22921278,3.31079847 7.67365722,2.00349528 C10.1181017,0.696192084 12.5427485,4.51389787e-16 19.229139,-7.76880231e-16 Z" id="path-1"></path>
+        <filter x="-11.4%" y="-11.0%" width="122.8%" height="138.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="24" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M19.229139,-7.76880231e-16 L480.770861,7.76880231e-16 C487.457252,-4.51389787e-16 489.881898,0.696192084 492.326343,2.00349528 C494.770787,3.31079847 496.689202,5.22921278 497.996505,7.67365722 C499.303808,10.1181017 500,12.5427485 500,19.229139 L500,280.770861 C500,287.457252 499.303808,289.881898 497.996505,292.326343 C496.689202,294.770787 494.770787,296.689202 492.326343,297.996505 C489.881898,299.303808 487.457252,300 480.770861,300 L19.229139,300 C12.5427485,300 10.1181017,299.303808 7.67365722,297.996505 C5.22921278,296.689202 3.31079847,294.770787 2.00349528,292.326343 C0.696192084,289.881898 3.00926524e-16,287.457252 -5.17920154e-16,280.770861 L5.17920154e-16,19.229139 C-3.00926524e-16,12.5427485 0.696192084,10.1181017 2.00349528,7.67365722 C3.31079847,5.22921278 5.22921278,3.31079847 7.67365722,2.00349528 C10.1181017,0.696192084 12.5427485,4.51389787e-16 19.229139,-7.76880231e-16 Z" id="path-3"></path>
+        <filter x="-11.4%" y="-11.0%" width="122.8%" height="138.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="24" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M19.229139,-7.76880231e-16 L480.770861,7.76880231e-16 C487.457252,-4.51389787e-16 489.881898,0.696192084 492.326343,2.00349528 C494.770787,3.31079847 496.689202,5.22921278 497.996505,7.67365722 C499.303808,10.1181017 500,12.5427485 500,19.229139 L500,280.770861 C500,287.457252 499.303808,289.881898 497.996505,292.326343 C496.689202,294.770787 494.770787,296.689202 492.326343,297.996505 C489.881898,299.303808 487.457252,300 480.770861,300 L19.229139,300 C12.5427485,300 10.1181017,299.303808 7.67365722,297.996505 C5.22921278,296.689202 3.31079847,294.770787 2.00349528,292.326343 C0.696192084,289.881898 3.00926524e-16,287.457252 -5.17920154e-16,280.770861 L5.17920154e-16,19.229139 C-3.00926524e-16,12.5427485 0.696192084,10.1181017 2.00349528,7.67365722 C3.31079847,5.22921278 5.22921278,3.31079847 7.67365722,2.00349528 C10.1181017,0.696192084 12.5427485,4.51389787e-16 19.229139,-7.76880231e-16 Z" id="path-5"></path>
+        <filter x="-11.4%" y="-11.0%" width="122.8%" height="138.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="24" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="side-panel" transform="translate(-780.000000, -42.000000)">
+            <g id="Group-7" transform="translate(810.000000, 48.000000)">
+                <g id="Group-4">
+                    <g id="Rectangle-2" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#363B49" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Group-2" transform="translate(180.000000, 54.000000)">
+                        <g id="Group" fill-rule="nonzero" stroke="#FFFFFF" stroke-width="5">
+                            <circle id="Oval" cx="75" cy="75" r="45"></circle>
+                            <circle id="Oval" cx="75" cy="45" r="45"></circle>
+                            <circle id="Oval" cx="105" cy="75" r="45"></circle>
+                            <circle id="Oval" cx="45" cy="75" r="45"></circle>
+                            <circle id="Oval" cx="75" cy="105" r="45"></circle>
+                        </g>
+                        <text id="kara" font-family="Karla-Bold, Karla" font-size="36" font-weight="bold" letter-spacing="-1.7475" fill="#FFD7A4">
+                            <tspan x="33" y="183">KARA</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-5" transform="translate(0.000000, 377.000000)">
+                    <g id="Rectangle-2-Copy" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="#363B49" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="Group" transform="translate(120.000000, 83.000000)">
+                        <polygon id="Triangle-2" fill="#FFFFFF" fill-rule="nonzero" points="108 31.5 144 103.5 72 103.5"></polygon>
+                        <polygon id="Triangle-2-Copy" fill="#FFFFFF" fill-rule="nonzero" points="233.1 31.5 269.1 103.5 197.1 103.5"></polygon>
+                        <text id="k" font-family="CircularStd-Black, Circular Std" font-size="103.5" font-weight="700" letter-spacing="-5.02406244" fill="#FFD7A4">
+                            <tspan x="0" y="103">K</tspan>
+                        </text>
+                        <text id="R" font-family="CircularStd-Black, Circular Std" font-size="103.5" font-weight="700" letter-spacing="-5.02406244" fill="#FFD7A4">
+                            <tspan x="135.9" y="103">R</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-6" transform="translate(0.000000, 752.000000)">
+                    <g id="Rectangle-2-Copy-2" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        <use fill="#363B49" xlink:href="#path-5"></use>
+                    </g>
+                    <g id="Group-3" transform="translate(180.000000, 89.000000)">
+                        <ellipse id="Oval" stroke="#FFFFFF" stroke-width="3" fill-rule="nonzero" cx="72" cy="76.5" rx="72" ry="76.5"></ellipse>
+                        <text id="kara" font-family="CircularStd-BoldItalic, Circular Std" font-size="48" font-style="italic" font-weight="bold" letter-spacing="-2.33" fill="#FFD7A4">
+                            <tspan x="66" y="85">KARA</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

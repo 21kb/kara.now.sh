@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="100px" viewBox="0 0 240 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#12C2E9" offset="0%"></stop>
+            <stop stop-color="#C471ED" offset="50.4493316%"></stop>
+            <stop stop-color="#F64F59" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo" transform="translate(-146.000000, -200.000000)">
+            <g id="Group-2" transform="translate(146.000000, 200.000000)">
+                <g id="Group" fill="url(#linearGradient-1)" fill-rule="nonzero">
+                    <rect id="Rectangle" x="0" y="0" width="210" height="100"></rect>
+                </g>
+                <text id="21kb" font-family="CircularStd-Black, Circular Std" font-size="57" font-weight="700" letter-spacing="-2.76687479">
+                    <tspan x="127" y="72" fill="#FFFFFF">21k</tspan>
+                    <tspan x="206.479376" y="72" fill="#000000">b</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
