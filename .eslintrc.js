@@ -5,11 +5,11 @@ module.exports = {
     es6: true,
     node: true,
   },
-  extends: ['airbnb', 'plugin:react/recommended'],
+  extends: ['eslint:recommended', 'plugin:react/recommended'],
   parserOptions: {
     ecmaVersion: 8,
     ecmaFeatures: {
-      // experimentalObjectRestSpread: true,
+      experimentalObjectRestSpread: true,
       jsx: true,
     },
     sourceType: 'module',
@@ -21,6 +21,5 @@ module.exports = {
     quotes: ['error', 'single'],
     semi: ['error', 'always'],
     'react/display-name': 0,
-    'import/no-extraneous-dependencies': 0,
   },
 };
