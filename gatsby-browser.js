@@ -1,4 +1,10 @@
-// This doesn't seem to be working. Is this a
-// Gatsby v2 thing only?
-// Sure looks like it from: https://next.gatsbyjs.org/docs/migrating-from-v1-to-v2/
-import './src/styles/global.css';
+require('./src/styles/global.css');
+const ReactGA = require('react-ga');
+
+ReactGA.initialize('UA-126770080-1');
+
+module.exports = {
+  onRouteUpdate: () => {
+    ReactGA.pageview(window.location.pathname + window.location.search);
+  },
+};
