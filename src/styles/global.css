@@ -19,7 +19,11 @@ html {
   box-sizing: inherit;
 }
 body {
-  background: rgba(255, 215, 164, 10%);
+  background: linear-gradient(
+    180deg,
+    rgba(74, 144, 226, 0.05) 0,
+    rgba(74, 144, 226, 0.04) 100%
+  );
   color: #282b35;
   font-family: 'Karla';
   font-size: 62.5%;
